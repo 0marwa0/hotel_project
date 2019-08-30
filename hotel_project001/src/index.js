@@ -7,16 +7,15 @@ import {RoomProvider} from './Context'
 import { BrowserRouter} from "react-router-dom";
 
 ReactDOM.render(
-   
+   <RoomProvider>
 
-        < BrowserRouter>
+      <BrowserRouter>
 
            <App />
 
+      </BrowserRouter>
 
-
-   
- </ BrowserRouter>
+</RoomProvider>
 , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change

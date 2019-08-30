@@ -3,7 +3,9 @@ import {Link }from 'react-router-dom'
 import Hero from '../Components/Hero'
 import Banner from '../Components/Baner'
 import Services from '../Components/Services'
+import FeaturedRoom from '../Components/FeatuerdRooms'
 import '../App.css';
+import FeatuerdRooms from '../Components/FeatuerdRooms';
 class Home extends React.Component{
 constructor(){
     super()
@@ -25,6 +27,7 @@ render(){
          </Banner>
       </Hero>
         <Services/>
+<FeatuerdRooms/>
         </>
     )
 }
