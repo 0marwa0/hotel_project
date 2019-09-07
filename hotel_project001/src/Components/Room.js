@@ -25,7 +25,7 @@ render(){
             <h6>${price}</h6>
             <p>per night</p>
          </div>
-         <Link to ={`/Room/:${slug}`} className="btn-primary room-link">
+         <Link to ={`/Room/${slug}`} className="btn-primary room-link">
          Features
          </Link>
       
