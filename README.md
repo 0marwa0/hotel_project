@@ -1,7 +1,20 @@
-# hotel_project
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-simple hotel project using React javaScripti
 
-![Screenshot_2020-06-25 React App(3)](https://user-images.githubusercontent.com/14044653/85662683-e0388d00-b6c0-11ea-84fb-389bb08b013d.png)
-![Screenshot_2020-06-25 React App(2)](https://user-images.githubusercontent.com/14044653/85662689-e3337d80-b6c0-11ea-9fe7-bc6e04d8608b.png)
+## Hotel-app
+a web-based application shows different hotels, showing the different features for each hotel, also the ability to filter hotels based on your preferences
+
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
